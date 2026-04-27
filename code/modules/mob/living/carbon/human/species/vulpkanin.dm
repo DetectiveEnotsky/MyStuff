@@ -48,6 +48,7 @@
 		/mob/living/simple_animal/parrot,
 		/mob/living/basic/bee,
 		/mob/living/basic/isopod/small,
+		/mob/living/basic/bunny
 	)
 
 	suicide_messages = list(
